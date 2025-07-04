@@ -1,7 +1,7 @@
 # Advanced Deep Learning – CIMAT (Fall 2024)
 
 **Author:** Ezau Faridh Torres Torres  
-**Advisor:** Dr. Mariano Rivera Meraz 
+**Advisor:** Dr. Mariano Rivera Meraz  
 **Course:** Advanced Deep Learning  
 **Institution:** CIMAT – Centro de Investigación en Matemáticas  
 **Term:** Fall 2024 

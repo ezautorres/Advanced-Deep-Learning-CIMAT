@@ -1,5 +1,14 @@
 # Advanced Deep Learning – CIMAT (Fall 2024)
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-✓-ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-✓-ff6f00)
+![PINNs](https://img.shields.io/badge/PINNs-✓-pink)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-✓-hotpink)
+![Transformers](https://img.shields.io/badge/Transformers-✓-mediumvioletred)
+
+
 **Author:** Ezau Faridh Torres Torres  
 **Advisor:** Dr. Mariano Rivera Meraz  
 **Course:** Advanced Deep Learning  

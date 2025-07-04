@@ -1,0 +1,10 @@
+.DS_Store
+bibliography/
+
+assignment1/codemaps.npy
+assignment1/labels.npy
+
+assignment4/df_cryptos.pkl
+assignment4/df_tasas.pkl
+
+assignment5/checkpoints/
